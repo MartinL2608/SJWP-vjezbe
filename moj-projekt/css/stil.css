@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color:aquamarine;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+
+}
+header{
+    padding: 10px 20px;
+    margin-bottom: 30px;
+    border-radius: 8px;
+
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    padding:0;
+
+}
+
+nav ul li a:hover{
+color: aqua;
+}
+main{
+    
+}
